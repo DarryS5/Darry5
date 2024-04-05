@@ -30,9 +30,6 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/adarrius-skinner-a25b41152/" />][linkedin]
 
-
-[linkedin]: https://www.linkedin.com/in/adarrius-skinner-a25b41152/
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
